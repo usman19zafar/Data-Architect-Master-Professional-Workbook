@@ -11,4 +11,4 @@ This book is the culmination of years of teaching, building, leading, and refini
 It is not meant to be read once. It is meant to be used, referenced, taught, and applied.
 Welcome to your next level.
 
-For next section please click here: https://github.com/usman19zafar/SECTION-1.2-TEASER-Dimensional-Modeling-Kimball-
+Next Section (1.2 – Dimensional Modeling, Kimball) is now available. Click here to preview the teaser and upcoming details: https://github.com/usman19zafar/SECTION-1.2-TEASER-Dimensional-Modeling-Kimball-
