@@ -12,3 +12,5 @@ It is not meant to be read once. It is meant to be used, referenced, taught, and
 Welcome to your next level.
 
 Next Section (1.2 – Dimensional Modeling, Kimball) is now available. Click here to preview the teaser and upcoming details: https://github.com/usman19zafar/SECTION-1.2-TEASER-Dimensional-Modeling-Kimball-
+
+Section 1.2 = https://github.com/usman19zafar/Dimensional-Modeling-Kimball-
