@@ -7,3 +7,4 @@ Limited permission is granted to view, reference, and share public links to this
 The concepts, frameworks, and standards described herein—including but not limited to DAIS‑10, SFS‑24, JFS‑24, and the Data Architect Master & Professional Workbook—are proprietary creations of the author and protected under applicable copyright and intellectual property laws.
 
 For licensing inquiries, collaboration requests, or commercial usage rights, please contact the author directly.
+usman19zafar@gmail.com
