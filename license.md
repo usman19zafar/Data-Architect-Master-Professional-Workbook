@@ -1,4 +1,4 @@
-© 2026 Muhammad Usman Zafar. All rights reserved.
+© 2026 Usman Zafar. All rights reserved.
 
 This workbook, including all text, diagrams, models, standards, mind maps, schemas, and associated materials, is the intellectual property of the author. No part of this publication may be reproduced, distributed, modified, stored in a retrieval system, or transmitted in any form or by any means—electronic, mechanical, photocopying, recording, or otherwise—without prior written permission from the author.
 
