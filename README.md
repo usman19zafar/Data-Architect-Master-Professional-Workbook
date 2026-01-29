@@ -1,4 +1,4 @@
-##Data architecture is no longer a technical discipline — it is a strategic capability. Organizations rise or fall based on how well they model, govern, move, store, and activate data. Yet most architects are trained in fragments: a little modeling here, a little cloud there, a little governance somewhere else.
+Data architecture is no longer a technical discipline — it is a strategic capability. Organizations rise or fall based on how well they model, govern, move, store, and activate data. Yet most architects are trained in fragments: a little modeling here, a little cloud there, a little governance somewhere else.
 
 This workbook fixes that.
 It gives you a complete, end to end architecture education — the kind that senior architects, principal engineers, and enterprise leaders actually use in the real world.
